@@ -89,11 +89,11 @@ class RU_EMR {
         	primaryWeaponOptics = "rhs_acc_pkas";
         	secondaryWeapon = "rhs_weap_rpg7";
         	uniform = "rhs_uniform_vdv_emr";
-        	addItemsToUniform[] = {LIST_12("ACE_fieldDressing"),LIST_2("ACE_CableTie"),"ACE_epinephrine",LIST_5("ACE_morphine")};
+        	addItemsToUniform[] = {LIST_12("ACE_fieldDressing"),LIST_2("ACE_CableTie"),"ACE_epinephrine",LIST_5("ACE_morphine"),LIST_2("rhs_mag_rgn")};
         	vest = "rhs_6b23_digi_vydra_3m";
         	addItemsToVest[] = {LIST_9("rhs_30Rnd_545x39_AK")};
         	backpack = "rhs_rpg_empty";
-        	addItemsToBackpack[] = {"rhs_rpg7_PG7VL_mag",LIST_4("rhs_mag_rdg2_white"),LIST_2("rhs_mag_rgn")};
+        	addItemsToBackpack[] = {"rhs_rpg7_PG7VL_mag",LIST_4("rhs_mag_rdg2_white")};
         	headgear = "rhs_6b27m_green";
         };
 
